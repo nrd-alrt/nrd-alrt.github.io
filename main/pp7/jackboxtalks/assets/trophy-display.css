@@ -1,0 +1,171 @@
+/*************************************
+* Award Naming -- Writing The Awards *
+*************************************/
+
+.jackbox-talks .EnterSingleText .award:after {
+    content: "";
+    width: 122px;
+    height: 156px;
+    position: absolute;
+    top: calc(50% - 78px);
+    right: 0;
+    background-image: url(trophies/f0135c2e.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    transform: matrix(-.97, -.26, -.26, .97, 0, 0);
+    z-index: 999
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyAudience:after {
+    background-image: url(trophies/f0135c2e.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyA:after {
+    background-image: url(trophies/6667fce5.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyB:after {
+    background-image: url(trophies/4d34edc1.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyC:after {
+    background-image: url(trophies/8d8ad4b8.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyD:after {
+    background-image: url(trophies/a8634123.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyE:after {
+    background-image: url(trophies/2ff4319e.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyF:after {
+    background-image: url(trophies/1ebef580.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyG:after {
+    background-image: url(trophies/7d03cc8a.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyH:after {
+    background-image: url(trophies/192d023a.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyI:after {
+    background-image: url(trophies/9f9947c1.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyJ:after {
+    background-image: url(trophies/bfc4d114.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyK:after {
+    background-image: url(trophies/7ce187ec.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyL:after {
+    background-image: url(trophies/72a690e1.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyM:after {
+    background-image: url(trophies/b4f8491f.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyN:after {
+    background-image: url(trophies/5334e913.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyO:after {
+    background-image: url(trophies/9e891efb.png)
+}
+
+.jackbox-talks .EnterSingleText .award.TrophyP:after {
+    background-image: url(trophies/3bba0f76.png)
+}
+
+/***************************************
+* Award Selection -- Giving The Awards *
+***************************************/
+
+.jackbox-talks .Awards .choices .award:after {
+    content: "";
+    width: 124px;
+    height: 159px;
+    position: absolute;
+    top: -21px;
+    left: 0;
+    background-image: url(trophies/f0135c2e.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat
+}
+
+.jackbox-talks .Awards .choices .award.TrophyA:after {
+    background-image: url(trophies/6667fce5.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyB:after {
+    background-image: url(trophies/4d34edc1.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyC:after {
+    background-image: url(trophies/8d8ad4b8.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyD:after {
+    background-image: url(trophies/a8634123.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyE:after {
+    background-image: url(trophies/2ff4319e.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyF:after {
+    background-image: url(trophies/1ebef580.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyG:after {
+    background-image: url(trophies/7d03cc8a.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyH:after {
+    background-image: url(trophies/192d023a.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyI:after {
+    background-image: url(trophies/9f9947c1.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyJ:after {
+    background-image: url(trophies/bfc4d114.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyK:after {
+    background-image: url(trophies/7ce187ec.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyL:after {
+    background-image: url(trophies/72a690e1.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyM:after {
+    background-image: url(trophies/b4f8491f.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyN:after {
+    background-image: url(trophies/5334e913.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyO:after {
+    background-image: url(trophies/9e891efb.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyP:after {
+    background-image: url(trophies/3bba0f76.png)
+}
+
+.jackbox-talks .Awards .choices .award.TrophyAudience:after {
+    background-image: url(trophies/f0135c2e.png)
+}

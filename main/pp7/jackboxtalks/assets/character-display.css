@@ -1,0 +1,111 @@
+/******************
+* Character Heads *
+******************/
+
+.jackbox-talks .Lobby button.characters.Wooden.Mannequin .flex-item {
+    background-image: url(characters/heads/Wooden_Mannequin.png)
+}
+
+.jackbox-talks .Lobby button.characters.Deer.in.Turtleneck .flex-item {
+    background-image: url(characters/heads/Deer_in_Turtleneck.png)
+}
+
+.jackbox-talks .Lobby button.characters.Ancient.Statue .flex-item {
+    background-image: url(characters/heads/Ancient_Statue.png)
+}
+
+.jackbox-talks .Lobby button.characters.Astronaut .flex-item {
+    background-image: url(characters/heads/Astronaut.png)
+}
+
+.jackbox-talks .Lobby button.characters.Lobster.in.Bowtie .flex-item {
+    background-image: url(characters/heads/Lobster_in_Bowtie.png)
+}
+
+.jackbox-talks .Lobby button.characters.Inflatable.Dancing.Man .flex-item {
+    background-image: url(characters/heads/Inflatable_Dancing_Man.png)
+}
+
+.jackbox-talks .Lobby button.characters.Robot.in.Suit .flex-item {
+    background-image: url(characters/heads/Robot_in_Suit.png)
+}
+
+.jackbox-talks .Lobby button.characters.Sock.Puppet .flex-item {
+    background-image: url(characters/heads/Sock_Puppet.png)
+}
+
+.jackbox-talks .Lobby button.characters.Skeleton .flex-item {
+    background-image: url(characters/heads/Skeleton.png)
+}
+
+.jackbox-talks .Lobby button.characters.Balloon.Animal.Dog .flex-item {
+    background-image: url(characters/heads/Balloon_Animal_Dog.png)
+}
+
+.jackbox-talks .Lobby button.characters.Suit.of.Armor .flex-item {
+    background-image: url(characters/heads/Suit_of_Armor.png)
+}
+
+.jackbox-talks .Lobby button.characters.Clown.Figurine .flex-item {
+    background-image: url(characters/heads/Clown_Figurine.png)
+}
+
+.jackbox-talks .Lobby button.characters.Dog.in.Pink.Scarf .flex-item {
+    background-image: url(characters/heads/Dog_in_Pink_Scarf.png)
+}
+
+/******************
+* Character Hands *
+******************/
+
+.jackbox-talks .Lobby.Hands button.characters.Wooden.Mannequin .flex-item {
+    background-image: url(characters/arms/Wooden_Mannequin.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Deer.in.Turtleneck .flex-item {
+    background-image: url(characters/arms/Deer_in_Turtleneck.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Ancient.Statue .flex-item {
+    background-image: url(characters/arms/Ancient_Statue.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Astronaut .flex-item {
+    background-image: url(characters/arms/Astronaut.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Lobster.in.Bowtie .flex-item {
+    background-image: url(characters/arms/Lobster_in_Bowtie.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Inflatable.Dancing.Man .flex-item {
+    background-image: url(characters/arms/Inflatable_Dancing_Man.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Robot.in.Suit .flex-item {
+    background-image: url(characters/arms/Robot_in_Suit.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Sock.Puppet .flex-item {
+    background-image: url(characters/arms/Sock_Puppet.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Skeleton .flex-item {
+    background-image: url(characters/arms/Skeleton.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Balloon.Animal.Dog .flex-item {
+    background-image: url(characters/arms/Balloon_Animal_Dog.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Suit.of.Armor .flex-item {
+    background-image: url(characters/arms/Suit_of_Armor.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Clown.Figurine .flex-item {
+    background-image: url(characters/arms/Clown_Figurine.png)
+}
+
+.jackbox-talks .Lobby.Hands button.characters.Dog.in.Pink.Scarf .flex-item {
+    background-image: url(characters/arms/Dog_in_Pink_Scarf.png)
+}
